@@ -4,7 +4,9 @@ by Austin Kim (@AsphyxiaUwO)
 
 ![image](https://github.com/user-attachments/assets/671ab194-c05e-4ae3-9e97-299540ed19b5)
 
-This is a 4-key macropad with a 0.91 inch OLED display. 
+This is a 4-key macropod with a 0.91-inch OLED display. It is also my submission for HackPad and the Highway to Undercity hackathon.
+I have never worked with circuitry before, so this was a great first-time experience with KiCad. I am sure I learned a lot with this project.
+I have used CAD software like Onshape previously, so I attempted to create a more complex case in compensation for the rather boring PCB design. I mount the screws through the bottom and place the heatset inserts on the top so that I do not let the screw stick out.
 
 # Images
 | Schematic    | PCB | Case |
@@ -13,6 +15,8 @@ This is a 4-key macropad with a 0.91 inch OLED display.
 
 
 # Bill of Materials/Components
+- 1x Custom 3d Printed Case
+- 1x Custom PCB
 - 1x 0.91" 128x32 OLED (SSD1306)
 - 4x Cherry MX Switch
 - 4x DSA Keycaps
