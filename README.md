@@ -16,5 +16,4 @@ by Austin Kim (@AsphyxiaUwO)
 - 1x Seeed XIAO RP2040
 - 1x 3D Printed Case
 - 4x Heatset Inserts
-- 4x 16mm M3 Screws
-- 4x M3 Nuts
+- 4x M3x16mm screws
