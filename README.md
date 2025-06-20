@@ -7,11 +7,10 @@ by Austin Kim (@AsphyxiaUwO)
 This is a 4-key macropad with a 0.91 inch OLED display. 
 
 # Images
-| Schematic | PCB | Case |
+| Schematic    | PCB | Case |
 | -------- | ------- | ------- |
-| ![image](https://github.com/user-attachments/assets/86422167-5144-4142-b8c4-8126cea4e044)
- | ![image](https://github.com/user-attachments/assets/bd0f41b9-7513-429e-b04d-f01c9dfcaf3e)
- | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
+| ![image](https://github.com/user-attachments/assets/86422167-5144-4142-b8c4-8126cea4e044) | ![image](https://github.com/user-attachments/assets/bd0f41b9-7513-429e-b04d-f01c9dfcaf3e) | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
+
 
 # Bill of Materials/Components
 - 1x 0.91" 128x32 OLED (SSD1306)
