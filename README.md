@@ -9,11 +9,9 @@ I have never worked with circuitry before, so this was a great first-time experi
 I have used CAD software like Onshape previously, so I attempted to create a more complex case in compensation for the rather boring PCB design. I mount the screws through the bottom and place the heatset inserts on the top so that I do not let the screw stick out.
 
 # Images
-| Schematic    | PCB | Case |
+| Schematic | PCB | Case |
 | -------- | ------- | ------- |
-| ![image](https://github.com/user-attachments/assets/6f5de939-4e51-4d0e-900a-a4c722c0e67e)
- | ![image](https://github.com/user-attachments/assets/090ea1d6-971d-4d10-b0a2-8ce358295cbd)
- | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
+| ![image](https://github.com/user-attachments/assets/6f5de939-4e51-4d0e-900a-a4c722c0e67e) | ![image](https://github.com/user-attachments/assets/090ea1d6-971d-4d10-b0a2-8ce358295cbd) | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
 
 
 # Bill of Materials/Components
