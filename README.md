@@ -11,7 +11,9 @@ I have used CAD software like Onshape previously, so I attempted to create a mor
 # Images
 | Schematic    | PCB | Case |
 | -------- | ------- | ------- |
-| ![image](https://github.com/user-attachments/assets/86422167-5144-4142-b8c4-8126cea4e044) | ![image](https://github.com/user-attachments/assets/bd0f41b9-7513-429e-b04d-f01c9dfcaf3e) | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
+| ![image](https://github.com/user-attachments/assets/6f5de939-4e51-4d0e-900a-a4c722c0e67e)
+ | ![image](https://github.com/user-attachments/assets/090ea1d6-971d-4d10-b0a2-8ce358295cbd)
+ | ![image](https://github.com/user-attachments/assets/b0a18c3d-101c-4ac6-a720-b88db32a85d1) |
 
 
 # Bill of Materials/Components
