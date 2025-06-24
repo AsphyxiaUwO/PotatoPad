@@ -19,31 +19,20 @@ keyboard.keymap = [
     [KC.F1, KC.F2, KC.F3, KC.F4]
 ]
 
-i2c_bus = busio.I2C(board.GP5, board.GP4)
-display_driver = SSD1306(
-    i2c=i2c_bus,
-)
-
+bus = busio.I2C(board.GP_SCL, board.GP_SDA);
+driver = SSD1306(i2c=bus, device_address=0x3C);
 display = Display(
-    display=display_driver,
-    entries=[
-        TextEntry(text='Layer: ', x=0, y=32, y_anchor='B'),
-        TextEntry(text='BASE', x=40, y=32, y_anchor='B', layer=0),
-        TextEntry(text='NUM', x=40, y=32, y_anchor='B', layer=1),
-        TextEntry(text='NAV', x=40, y=32, y_anchor='B', layer=2),
-        TextEntry(text='0 1 2', x=0, y=4),
-        TextEntry(text='0', x=0, y=4, inverted=True, layer=0),
-        TextEntry(text='1', x=12, y=4, inverted=True, layer=1),
-        TextEntry(text='2', x=24, y=4, inverted=True, layer=2),
-    ],
+    display=driver,
+    width=128,
     height=64,
     dim_time=10,
     dim_target=0.2,
     off_time=1200,
-    brightness=1,
-)
-
-keyboard.extensions.append(display)
+    brightness=0.8
+);
+display.entries = [
+        TextEntry(text='PotatoPad', x=0, y=0, x_anchor="M"),
+];
 
 if __name__ == '__main__':
     keyboard.go()
